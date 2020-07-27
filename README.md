@@ -1,4 +1,8 @@
-### Hi there 👋
+### Andrey is here 👋
+
+Hey, my name is Andrey and I am ML Engineer / Python Developer.
+
+📫 How to reach me: [@AndreyPhys](http://t.me/AndreyPhys) (Telegram)
 
 <!--
 **AndreyAnokhin/AndreyAnokhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
