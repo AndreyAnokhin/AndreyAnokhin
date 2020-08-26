@@ -1,12 +1,19 @@
-### Andrey is here 👋
+## Hi there 👋  My name is Andrey Anokhin
 
-Hey, my name is Andrey and I am ML Engineer / Python Developer.
+I'm a ML Engineer / Python Developer.
 
-📫 How to reach me: [@AndreyPhys](http://t.me/AndreyPhys) (Telegram)
+[<img align="left" alt="Telegram | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/telegram.svg" />][telegram] 
+[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="left" alt="E-mail | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/gmail.svg" />][email] 
+
+
+[telegram]: http://t.me/AndreyPhys
+[linkedin]: https://www.linkedin.com/in/andrey-anokhin/
+[email]: mailto:anokhin.andrey@gmail.com
 
 <!--
 **AndreyAnokhin/AndreyAnokhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+📫 How to reach me: [@AndreyPhys](http://t.me/AndreyPhys) (Telegram)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
